@@ -19,10 +19,3 @@
     font-weight: bold;
     font-size: 20px;
 }
-
-canvas{
-    box-shadow: 5px 5px 5px crimson;
-    background-color: teal;
-    border: 5px solid palevioletred;
-    border-radius: 20px;
-}
