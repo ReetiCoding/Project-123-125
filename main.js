@@ -18,8 +18,8 @@ function draw(){
     background("#5196e3");
     document.getElementById("font_size").innerHTML = "Font Size Of The Text Will Be = "+difference+"px";
     textSize(difference);
-    fill("#00ff0a");
-    text('Balakrishnan',50,400);
+    fill("F90093");
+    text('Reeti',50,400);
 }
 
 function modelDone(){
